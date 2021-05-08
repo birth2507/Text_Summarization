@@ -1,2 +1,2 @@
 # textrank_text_summarization
-A tutorial for Automatic Text Summarization using TextRank algorithm.
+Text Summarization an extractive approach using TextRank algorithm.
